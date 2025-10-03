@@ -1,0 +1,3 @@
+# requirements.txt
+# No third-party dependencies needed for this script
+requests
